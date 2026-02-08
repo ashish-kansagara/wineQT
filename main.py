@@ -1,0 +1,1 @@
+from src.wineQT.config import configuration
